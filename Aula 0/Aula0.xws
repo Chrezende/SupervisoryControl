@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace version="3">
+	<model file="Aula0-G1.xmd" position="0" selected="true"/>
+	<model file="accessible(G1).xmd" position="1"/>
+	<model file="coaccessible(G1).xmd" position="2"/>
+	<model file="trim(G1).xmd" position="3"/>
+</workspace>
